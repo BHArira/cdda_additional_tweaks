@@ -14,15 +14,22 @@
     "book_learn": [ [ "recipe_lab_elec", 7 ], [ "advanced_electronics", 6 ] ],
     "using": [ [ "soldering_standard", 100 ], [ "plastic_molding", 3 ] ],
     "qualities": [ { "id": "SCREW", "level": 1 } ],
+    "proficiencies": [
+      { "proficiency": "prof_elec_soldering" },
+      { "proficiency": "prof_elec_circuits" },
+      { "proficiency": "prof_elec_semiconductors" },
+      { "proficiency": "prof_plasticworking" },
+      { "proficiency": "prof_polymerworking" }
+		     ],
     "components": [
       [ [ "goggles_nv", 1 ] ],
       [ [ "goggles_ir", 1 ] ],
-      [ [ "RAM", 1 ] ],
-      [ [ "scrap", 1 ] ],
+      [ [ "RAM", 2 ] ],
+      [ [ "scrap", 2 ] ],
       [ [ "amplifier", 4 ] ],
       [ [ "sensor_module", 1 ] ],
-      [ [ "cable", 20 ] ],
-	  [ [ "lens", 4 ] ]
+      [ [ "cable", 80 ] ],
+      [ [ "lens", 4 ] ]
     ]
  }
 ]
