@@ -1,0 +1,22 @@
+[
+	{
+		"id": "UPS_off",
+		"type": "TOOL_ARMOR",
+		"copy-from": "UPS_off",
+		"name": { "str": "UPS", "str_pl": "UPSes" },
+		"description": "This is a unified power supply, or UPS.  It is a device developed jointly by military and scientific interests for use in combat and the field.  The UPS is designed to power armor and some guns, but drains batteries quickly.  It can be worn strapped to either leg for ease of access, and it's been waterproofed to protect the delicate electronics.  Has its own custom battery, rechargeable and with higher capacity, but not removable",
+		"pocket_data": [ { "pocket_type": "MAGAZINE_WELL", "flag_restriction": [ "BATTERY_HEAVY" ], "default_magazine": "heavy_plus_battery_cell" } ],
+		"ammo": [ "battery" ],
+		"sided": true, 
+		"flags": [ "RECHARGE", "BELTED", "FRAGILE", "OVERSIZE", "WATERPROOF", "IS_UPS" ],
+		"material": [ "aluminum", "plastic" ],
+		"armor": [
+		  {
+			"encumbrance": 2,
+			"coverage": 13,
+			"covers": [ "leg_l", "leg_r" ],
+			"specifically_covers": [ "leg_upper_l", "leg_upper_r" ]
+		  }
+		]
+	}
+]
