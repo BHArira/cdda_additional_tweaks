@@ -1,0 +1,28 @@
+[
+ {
+    "type": "recipe",
+    "activity_level": "LIGHT_EXERCISE",
+    "result": "ar_glasses_military",
+    "category": "CC_ELECTRONIC",
+    "subcategory": "CSC_ELECTRONIC_OTHER",
+    "skill_used": "electronics",
+    "skills_required": [ [ "mechanics", 6 ], [ "computer", 5 ] ],
+    "difficulty": 7,
+    "time": "85 m",
+    "reversible": true,
+    "decomp_learn": 8,
+    "book_learn": [ [ "recipe_lab_elec", 7 ], [ "advanced_electronics", 6 ] ],
+    "using": [ [ "soldering_standard", 100 ], [ "plastic_molding", 3 ] ],
+    "qualities": [ { "id": "SCREW", "level": 1 } ],
+    "components": [
+      [ [ "goggles_nv", 1 ] ],
+      [ [ "goggles_ir", 1 ] ],
+      [ [ "RAM", 1 ] ],
+      [ [ "scrap", 1 ] ],
+      [ [ "amplifier", 4 ] ],
+      [ [ "sensor_module", 1 ] ],
+      [ [ "cable", 20 ] ],
+	  [ [ "lens", 4 ] ]
+    ]
+ }
+]

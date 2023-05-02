@@ -1,0 +1,11 @@
+[
+  {
+    "type": "MOD_INFO",
+    "id": "additional_tweaks",
+    "name": "Additional Tweaks",
+    "authors": [ "Arira" ],
+    "description": "Some rebalancing tweaks and stuff like unbreakable locksmith kits and a custom start.",
+    "category": "rebalance",
+    "dependencies": [ "dda" ]
+  }
+]

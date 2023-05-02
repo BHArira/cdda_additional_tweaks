@@ -1,0 +1,25 @@
+[
+{
+    "type": "profession",
+    "id": "jotaku",
+    "name": "Comiket",
+    "description": "You've been preparing to go on Comiket as cosplay model when all of it happened.",
+    "points": 3,
+    "skills": [ { "level": 2, "name": "driving" } ],
+    "vehicle": "motorcycle_stroud",
+    "items": {
+      "both": {
+        "items": [
+          "geta",
+          "yukata",
+          "socks",
+          "wristwatch"
+        ],
+        "entries": [
+          { "group": "charged_smart_phone" },
+          { "item": "scabbard", "contents-item": "katana" }
+        ]
+      }
+    }
+  }
+ ]

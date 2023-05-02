@@ -1,0 +1,24 @@
+[
+	{
+		"type": "ARMOR",
+		"copy-from": "silver_necklace",
+		"id": "dimensional_necklace",
+		"looks_like": "silver_necklace",
+		"name": { "str": "dimensional necklace" },
+		"description": "The dimensional necklace is a stunning piece of jewelry made from a combination of platinum, mithril, and diamond. Its interlocking chains create an intricate and delicate appearance, while the circular pendant at the center. The necklace's powerful enchantments not only protect the items within, but can also stop time for them, making it an incredibly valuable and practical accessory for any adventurer or traveler.",
+		"pocket_data": [
+		  {
+			"pocket_type": "CONTAINER",
+			"max_contains_volume": "9999 L",
+			"max_contains_weight": "9999 kg",
+			"max_item_length": "325 cm",
+			"moves": 80,
+			"spoil_multiplier": 0.0001,
+			"weight_multiplier": 0.00001,
+			"volume_multiplier": 0.00001
+		  }
+		],
+		"material": [ "platinum", "mithril_metal", "diamond" ],
+		"flags": [ "PERSONAL", "SUPER_FANCY", "TARDIS", "TRADER_AVOID", "UNBREAKABLE", "NO_TAKEOFF" ]
+	}
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "id": "motorcycle_stroud",
+    "type": "vehicle",
+    "name": "Stroud",
+    "blueprint": [ "o#>o" ],
+    "parts": [
+      { "x": 0, "y": 0, "parts": [ "hdframe_vertical", "saddle_motor", "engine_electric" ] },
+	  { "x": 0, "y": 0, "parts": [ "controls", "controls_electronic" ] },
+      { "x": 0, "y": 0, "parts": [ "horn_car", "storage_battery_mount", "storage_battery_removable" ] },
+      { "x": 1, "y": 0, "parts": [ "frame_handle" ] },
+	  { "x": 1, "y": 0, "parts": [ "headlight_reinforced" ] },
+	  { "x": 2, "y": 0, "parts": [ "hdframe_vertical", "wheel_mount_heavy_steerable", "wheel_armor" ] },
+      { "x": -1, "y": 0, "parts": [ "hdframe_vertical", "wheel_mount_heavy", "wheel_armor" ] },
+      { "x": -1, "y": 0, "parts": [ "afs_cargo_trough" ] }
+    ]
+  }
+]
+
+
