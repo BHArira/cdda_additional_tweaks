@@ -15,7 +15,16 @@
     "color": "light_gray",
     "ammo": [ "battery" ],
     "charges_per_use": 1,
-    "use_action": [ "CAMERA", "PORTABLE_GAME", "EINKTABLETPC", "ELECTRICSTORAGE", "EBOOKSAVE", "EBOOKREAD",
+    "use_action": [
+		"CAMERA",
+		"MP3",
+		"CALORIES_INTAKE_TRACKER",
+		"PORTABLE_GAME",
+		"EINKTABLETPC",
+		"ELECTRICSTORAGE",
+		"EBOOKSAVE",
+		"EBOOKREAD",
+	
 	{
         "target": "ar_glasses_military_nv",
         "menu_text": "Activate light-amp mode",
@@ -51,8 +60,9 @@
       "SUN_GLASSES",
 	  "FLASH_PROTECTION",
       "THERMOMETER",
-      "WATER_BREAK",
       "PADDED",
+	  "FIX_FARSIGHT",
+	  "FIX_NEARSIGHT",
       "ELECTRONIC"
     ]
   },
