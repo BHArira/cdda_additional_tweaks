@@ -10,7 +10,7 @@ Currently added stuff
    (another OP items which has binoculars function+NV\IR modes+all the smartphone features except flashlight)
    
  - Some UPS changes
-   (Can be worn like in Aftershock, but still able to change batteries inside like in vanilla)
+   (Can be worn like in Aftershock, but still be able to change batteries like in vanilla)
  
  - Locksmith kit is unbreakable
    (Some people including myself thinks it's stupid that such an item kit breaks like makeshift lockpicks)
