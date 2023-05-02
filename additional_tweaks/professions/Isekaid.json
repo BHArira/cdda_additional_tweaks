@@ -1,0 +1,28 @@
+[
+{
+    "type": "profession",
+    "id": "isekaid",
+    "name": "Isekai Hero",
+    "description": "Gods have chosen you to reincarnate in this world. Things can't be that bad?!",
+    "points": 6,
+	"spells": [ { "id": "create_lighter", "level": 0 } ],
+    "items": {
+      "both": {
+        "items": [
+          "jeans",
+          "boots",
+		  "hoodie",
+		  "dimensional_necklace",
+          "socks",
+          "wristwatch"
+        ],
+        "entries": [
+          { "group": "charged_smart_phone" },
+          { "item": "tshirt", "variant": "generic_tshirt" }
+        ]
+      }
+	  "male": [ "boxer_briefs" ],
+      "female": [ "bra", "panties" ]
+    }
+  }
+ ]
